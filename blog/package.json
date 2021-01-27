@@ -6,10 +6,11 @@
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "server": "hexo server"
+    "server": "hexo server",
+    "server-d": "hexo server --debug"
   },
   "hexo": {
-    "version": ""
+    "version": "5.3.0"
   },
   "dependencies": {
     "hexo": "^5.0.0",
